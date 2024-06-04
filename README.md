@@ -11,4 +11,4 @@ For the todo List using angular:
 
 - To start the react to do list, **npm start**
 
-- Finally, to start the layout-task that i decided to do with react, **npm start** 
+- Finally, to start the layout-task that i decided to do with react, **npm start** . For this task, I choose the 5th layout.
