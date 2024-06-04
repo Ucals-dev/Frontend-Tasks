@@ -7,8 +7,8 @@ For each project, **npm install** (or another way like yarn ...) must be do firs
 For the todo List using angular:
 - **node server.js** starts the backend but also render the todo list. This backend is then used for the other 2 todo lists. If the server is not listening to **localhost:4000**, the todo lists won't work.
 
--To start the svelte to do list, among others, **npm run dev** can be used
+- To start the svelte to do list, among others, **npm run dev** can be used
 
--To start the react to do list, **npm start**
+- To start the react to do list, **npm start**
 
--Finally, to start the layout-task that i decided to do with react, **npm start** 
+- Finally, to start the layout-task that i decided to do with react, **npm start** 
